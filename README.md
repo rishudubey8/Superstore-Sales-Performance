@@ -19,15 +19,15 @@ The dashboard provides a 360° view of business performance with KPIs, trends, a
 ## 🖼️ Dashboard Preview
 | Overview | Profit & Discount | Customers |
 |----------|------------------|-----------|
-| ![Overview](Screenshots/Overview.png) | ![Profit & Discount](Screenshots/Profit_Discount_Analysis.png) | ![Customers](Screenshots/Customer_Segment_Analysis.png) |
+| ![Overview](Overview.png) | ![Profit & Discount](Profit_Discount_Analysis.png) | ![Customers](Customer_Segment_Analysis.png) |
 
 | Regions | Products | Shipping |
 |---------|----------|----------|
-| ![Regions](Screenshots/Regional_Market_Analysis.png) | ![Products](Screenshots/Product_Category_Performance.png) | ![Shipping](Screenshots/Shipping_Delivery_Performance.png) |
+| ![Regions](Regional_Market_Analysis.png) | ![Products](Product_Category_Performance.png) | ![Shipping](Shipping_Delivery_Performance.png) |
 
 | Opportunity Funnel |
 |--------------------|
-| ![Opportunity Funnel](Screenshots/Sales_Pipeline_Oppourtunity_Tracking.png) |
+| ![Opportunity Funnel](Sales_Pipeline_Oppourtunity_Tracking.png) |
 
 ---
 
